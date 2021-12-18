@@ -22,7 +22,11 @@ I WANT to add important events to a daily planner
 SO THAT I can manage my time effectively
 
 ## Screenshots
+Empty Schedule
+![Scheduler Empty](Develop/assets/images/Scheduler-Empty.png)
 
+Work Scheduler being utilized
+![Scheduler Full](Develop/assets/images/Scheduler-Full.png)
 
 ## Technologies
 This application utilizes the following npm packages:
