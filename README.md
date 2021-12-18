@@ -23,7 +23,7 @@ SO THAT I can manage my time effectively
 
 ## Technologies
 This application utilizes the following npm packages:
-* 
+* Moment.js
 
 ## Questions
 Reach out to me using my [Github account](https://github.com/Ericcrain77) or my [email](ericcrain77@gmail.com).
