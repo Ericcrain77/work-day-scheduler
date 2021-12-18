@@ -1,0 +1,23 @@
+{
+  "name": "work-day-scheduler",
+  "version": "1.0.0",
+  "description": "[Deployed Application](https://ericcrain77.github.io/work-day-scheduler/)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ericcrain77/work-day-scheduler.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ericcrain77/work-day-scheduler/issues"
+  },
+  "homepage": "https://github.com/Ericcrain77/work-day-scheduler#readme",
+  "dependencies": {
+    "moment": "^2.29.1"
+  }
+}
