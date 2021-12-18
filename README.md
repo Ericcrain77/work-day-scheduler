@@ -6,6 +6,7 @@
 
 ## Table of Contents
 * [Description](#description)
+* [User Story](#user-story)
 * [Screenshots](#screenshots)
 * [Technologies](#technologies)
 * [Questions](#questions)
@@ -13,7 +14,7 @@
 ## Description
 A simple calendar application that allows a user to save events for each hour of a day. 
 
-USER STORY:
+## USER STORY
 
 AS AN employee with a busy schedule
 
