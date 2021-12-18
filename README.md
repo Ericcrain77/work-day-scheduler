@@ -23,10 +23,10 @@ SO THAT I can manage my time effectively
 
 ## Screenshots
 Empty Schedule
-![Scheduler Empty](Develop/assets/images/Scheduler-Empty.jpeg)
+![Scheduler Empty](Develop/assets/images/Scheduler-Empty.jpg)
 
 Work Scheduler being utilized
-![Scheduler Full](Develop/assets/images/Scheduler-Full.jpeg)
+![Scheduler Full](Develop/assets/images/Scheduler-Full.jpg)
 
 ## Technologies
 This application utilizes the following npm packages:
